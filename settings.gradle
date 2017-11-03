@@ -1,0 +1,3 @@
+include ':coresdk'
+rootProject.name = 'shortlinkedlist'
+
